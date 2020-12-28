@@ -1,8 +1,6 @@
 488 Project
 
-
 This project was built in Visual Studio and should be opened/run through Visual Studio.
-
 
 To open and prep for running:
 	-Make sure Visual Studio is installed
@@ -25,5 +23,5 @@ Troubleshooting:
 		-Right click the Solution Name at the top of Solution Explorer, select Rebuild
 		-Close Visual Studio and reopen the Solution
 
-	-If you can't login using either provided user information, the Database is not correctly connected and refer to the demonstration video
+	-If you can't login using either provided user information, the Database is not correctly connected and refer to the demonstration video if video is
 	provided to see the application.
